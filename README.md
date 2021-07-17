@@ -25,3 +25,15 @@
 * component for Town detail
 * hooks for Winter.Sitemap
 * extends Winter State model
+## [responsive-image](https://github.com/OFFLINE-GmbH/oc-responsive-images-plugin)
+###### Adds reponsive images capabilities to October CMS
+## [measures](https://github.com/sunlabdev/wn-measures-plugin)
+###### Measures
+This plugin allows you to create, update and display any measures you want on a model, some examples could be:
+
+* Blog post's views
+* Number of forum topic creation from a member
+* Counting successive daily-connexion of a member
+* API's resource fetches count
+* ...
+This plugin is intended to be used in more complex plugins or as is to register some statistics over your website's events.
