@@ -21,7 +21,7 @@
 ## [Locarion town](https://github.com/planetadeleste/wn-locationtowns-plugin)
 ###### Adds towns to states managed by Winter.Location plugin. Included:
 
-...component for state towns with pagination
-...component for Town detail
-...hooks for Winter.Sitemap
-...extends Winter State model
+*component for state towns with pagination
+*component for Town detail
+*hooks for Winter.Sitemap
+*extends Winter State model
