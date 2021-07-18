@@ -52,3 +52,5 @@ Using the AuthorizationControl middleware provided with this plugin your routes 
 ###### tawk.to Live Chat plugin
 ## [translate](https://github.com/studiobosco/wn-translate-extended)
 ###### Translate Extended
+## [blogview](https://github.com/hauzmann/wn-blogviews)
+###### Extends the WinterCMS.Blog plugin to track post views
