@@ -54,5 +54,5 @@ Using the AuthorizationControl middleware provided with this plugin your routes 
 ###### Translate Extended
 ## [blogview](https://github.com/hauzmann/wn-blogviews)
 ###### Extends the WinterCMS.Blog plugin to track post views
-## [mix-plugin] (WinterCMS plugin. Provides a Winter CLI for Laravel Mix)
+## [mix-plugin](WinterCMS plugin. Provides a Winter CLI for Laravel Mix)
 ###### WinterCMS plugin. Provides a Winter CLI for Laravel Mix
