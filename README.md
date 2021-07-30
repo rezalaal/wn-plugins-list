@@ -56,3 +56,5 @@ Using the AuthorizationControl middleware provided with this plugin your routes 
 ###### Extends the WinterCMS.Blog plugin to track post views
 ## [mixplugin](https://github.com/jaxwilko/wn-mix-plugin)
 ###### WinterCMS plugin. Provides a Winter CLI for Laravel Mix
+## [Analytics](https://github.com/SynderDEV/october-analytics-plugin)
+###### Simple analyse the traffic of your OctoberCMS-based website without relying on an external service.
