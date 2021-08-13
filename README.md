@@ -58,3 +58,5 @@ Using the AuthorizationControl middleware provided with this plugin your routes 
 ###### WinterCMS plugin. Provides a Winter CLI for Laravel Mix
 ## [Analytics](https://github.com/SynderDEV/october-analytics-plugin)
 ###### Simple analyse the traffic of your OctoberCMS-based website without relying on an external service.
+###### Backend registration
+## [Backend registration](https://github.com/SunLabDev/wn-backend-registration-plugin/tree/main/classes)
