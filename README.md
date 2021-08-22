@@ -1,5 +1,6 @@
 # wn-plugins-list
-
+## [backend forms used in a frontend](https://github.com/MatissJanis/oc-frontend-forms-example)
+###### OctoberCMS backend forms used in a frontend component example 
 ## [Content Blocks](https://github.com/Flynsarmy/wn-contentblocks-plugin)
 ###### Allow admins to update content blocks directly from the layouts/pages/partials that use them.
 ## [Nexus-plugin](https://github.com/xitara/wn-plugin-nexus)
