@@ -1,4 +1,6 @@
 # wn-plugins-list
+## [dump](https://github.com/inetis-ch/oc-dump-plugin)
+###### OctoberCMS plugin that adds the d() function to Twig for recursively dumping passed variables
 ## [backend forms used in a frontend](https://github.com/MatissJanis/oc-frontend-forms-example)
 ###### OctoberCMS backend forms used in a frontend component example 
 ## [Content Blocks](https://github.com/Flynsarmy/wn-contentblocks-plugin)
