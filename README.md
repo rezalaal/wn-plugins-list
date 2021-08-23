@@ -1,4 +1,6 @@
 # wn-plugins-list
+## [Redirect](https://github.com/vdlp/oc-redirect-plugin)
+###### Advanced redirect plugin for October CMS.
 ## [dump](https://github.com/inetis-ch/oc-dump-plugin)
 ###### OctoberCMS plugin that adds the d() function to Twig for recursively dumping passed variables
 ## [backend forms used in a frontend](https://github.com/MatissJanis/oc-frontend-forms-example)
