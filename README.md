@@ -1,3 +1,8 @@
+
+
+
+
+
 # wn-plugins-list
 ## [Redirect](https://github.com/vdlp/oc-redirect-plugin)
 ###### Advanced redirect plugin for October CMS.
@@ -65,3 +70,5 @@ Using the AuthorizationControl middleware provided with this plugin your routes 
 ###### Simple analyse the traffic of your OctoberCMS-based website without relying on an external service.
 ###### Backend registration
 ## [Backend registration](https://github.com/SunLabDev/wn-backend-registration-plugin/tree/main/classes)
+###### Cors plugin
+## [Cors](https://github.com/OFFLINE-GmbH/oc-cors-plugin)
