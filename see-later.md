@@ -1,0 +1,13 @@
+https://octobercms.com/plugin/rainlab-sitemap
+https://octobercms.com/plugin/msof-portfolio
+https://octobercms.com/plugin/kpolicar-backendlock
+https://octobercms.com/plugin/kpolicar-backendlistlenses
+https://octobercms.com/plugin/kpolicar-backendmenupinnedpages
+https://octobercms.com/plugin/pkurg-tailwindcssblockspackb5builder
+https://octobercms.com/plugin/xl1034-likes
+https://octobercms.com/plugin/sunlab-backendregistration
+https://octobercms.com/plugin/mohsin-textwithbuttonwidget
+https://github.com/Magiczne/october-resume
+https://octobercms.com/plugin/zakir-socialmedia
+https://octobercms.com/plugin/dizoo-slider
+https://octobercms.com/plugin/pkurg-cardslider
