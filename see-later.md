@@ -11,3 +11,5 @@ https://github.com/Magiczne/october-resume
 https://octobercms.com/plugin/zakir-socialmedia
 https://octobercms.com/plugin/dizoo-slider
 https://octobercms.com/plugin/pkurg-cardslider
+https://octobercms.com/plugin/zwiebl-openingtimes
+https://octobercms.com/plugin/rebel59-countdown
