@@ -13,3 +13,5 @@ https://octobercms.com/plugin/dizoo-slider
 https://octobercms.com/plugin/pkurg-cardslider
 https://octobercms.com/plugin/zwiebl-openingtimes
 https://octobercms.com/plugin/rebel59-countdown
+https://octobercms.com/plugin/indikator-blogstat
+https://octobercms.com/plugin/clarknguyen-slider
