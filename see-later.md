@@ -15,3 +15,4 @@ https://octobercms.com/plugin/zwiebl-openingtimes
 https://octobercms.com/plugin/rebel59-countdown
 https://octobercms.com/plugin/indikator-blogstat
 https://octobercms.com/plugin/clarknguyen-slider
+https://github.com/jaxwilko/wn-mediastream-plugin
