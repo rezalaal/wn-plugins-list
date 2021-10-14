@@ -72,3 +72,5 @@ Using the AuthorizationControl middleware provided with this plugin your routes 
 ## [Backend registration](https://github.com/SunLabDev/wn-backend-registration-plugin/tree/main/classes)
 ###### Cors plugin
 ## [Cors](https://github.com/OFFLINE-GmbH/oc-cors-plugin)
+###### SiteSearch
+## [offline-sitesearch](https://github.com/OFFLINE-GmbH/oc-site-search-plugin)
