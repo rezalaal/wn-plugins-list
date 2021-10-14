@@ -1,5 +1,5 @@
-[https://octobercms.com/plugin/rainlab-sitemap]
-[https://octobercms.com/plugin/msof-portfolio]
+(1)[https://octobercms.com/plugin/rainlab-sitemap]
+(2)[https://octobercms.com/plugin/msof-portfolio]
 [https://octobercms.com/plugin/kpolicar-backendlock]
 [https://octobercms.com/plugin/kpolicar-backendlistlenses]
 [https://octobercms.com/plugin/kpolicar-backendmenupinnedpages]
