@@ -4,6 +4,8 @@
 
 
 # wn-plugins-list
+## [demos](https://github.com/octoberdemos)
+###### demo plugins 
 ## [Redirect](https://github.com/vdlp/oc-redirect-plugin)
 ###### Advanced redirect plugin for October CMS.
 ## [dump](https://github.com/inetis-ch/oc-dump-plugin)
