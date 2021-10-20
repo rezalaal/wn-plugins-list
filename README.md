@@ -76,3 +76,6 @@ Using the AuthorizationControl middleware provided with this plugin your routes 
 ## [Cors](https://github.com/OFFLINE-GmbH/oc-cors-plugin)
 ###### SiteSearch
 ## [offline-sitesearch](https://github.com/OFFLINE-GmbH/oc-site-search-plugin)
+
+###### Advance redirect plugin 
+## [Advnce Redirect] (https://github.com/vdlp/oc-redirect-plugin)
