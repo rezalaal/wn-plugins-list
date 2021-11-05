@@ -2,6 +2,11 @@
 
 # wn-plugins
 
+## Media plugin 
+##### [Media Plugin](https://github.com/helmutkaufmann/wn-media-plugin) 
+## Passwordless plugin 
+##### [PasswordlessToken](https://github.com/helmutkaufmann/wn-passwordless-plugin)
+
 ## twig
 ##### [Twig](https://github.com/helmutkaufmann/wn-twigext-plugin) 
 
