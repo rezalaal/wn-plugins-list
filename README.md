@@ -2,6 +2,9 @@
 
 # wn-plugins
 
+## Shared button 
+##### [Shared Button](https://github.com/WebVPF/wn-share-plugin)
+
 ## Media plugin 
 ##### [Media Plugin](https://github.com/helmutkaufmann/wn-media-plugin) 
 ## Passwordless plugin 
