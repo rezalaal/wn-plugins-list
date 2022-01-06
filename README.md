@@ -2,6 +2,10 @@
 
 # wn-plugins
 
+## log book
+##### [LogBook get log from Models](https://github.com/jacobdekeizer/oc-logbook)
+
+
 ## use react on wn
 ##### [ReactJS](https://github.com/leocavalcante/oc-minimal-react)
 
