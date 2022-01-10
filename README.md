@@ -2,6 +2,11 @@
 
 # wn-plugins
 
+
+## file uploader 
+##### [File Uploader](https://github.com/responsiv/uploader-plugin)
+
+
 ## log book
 ##### [LogBook get log from Models](https://github.com/jacobdekeizer/oc-logbook)
 
