@@ -2,6 +2,9 @@
 
 # wn-plugins
 
+## JWAuth
+##### [JWAuth plugin](https://github.com/rluders/jwtauth-plugin/tree/wintercms)
+
 
 ## file uploader 
 ##### [File Uploader](https://github.com/responsiv/uploader-plugin)
