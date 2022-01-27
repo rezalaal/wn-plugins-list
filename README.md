@@ -2,6 +2,9 @@
 
 # wn-plugins
 
+## Page preview 
+##### [PagePreview](https://packagist.org/packages/studiobosco/wn-pagepreview-plugin)
+
 ## JWAuth
 ##### [JWAuth plugin](https://github.com/rluders/jwtauth-plugin/tree/wintercms)
 
